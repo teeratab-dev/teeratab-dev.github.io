@@ -1,32 +1,40 @@
 {
-  "shopName": "ร้านเมาส์ไอที Gaming Shop",
+  "shopName": "Shiryx tea",
   "owner": "team",
   "studentId": "1680705603",
   "ownerPhone": "081-040-4633",
   "products": [
     {
       "id": 1,
-      "name": "เมาส์เกมมิ่ง RGB",
-      "price": 590,
-      "emoji": "🖱️",
+      "name": "ลาเต้เย็น",
+      "price": 55,
+      "emoji": "🥤",
       "available": true,
-      "tags": ["เมาส์", "เกมมิ่ง", "ขายดี"]
+      "tags": ["กาแฟ", "เย็น"]
     },
     {
       "id": 2,
-      "name": "เมาส์ไร้สาย Silent (เสียงเงียบ)",
-      "price": 350,
-      "emoji": "🖱️",
+      "name": "ชาไทย",
+      "price": 45,
+      "emoji": "🧋",
       "available": true,
-      "tags": ["เมาส์", "ไร้สาย", "ทำงาน"]
+      "tags": ["ชา", "เย็น", "ขายดี"]
     },
     {
       "id": 3,
-      "name": "เมาส์สุขภาพ Ergonomic",
-      "price": 890,
-      "emoji": "🖱️",
+      "name": "ครัวซองต์",
+      "price": 60,
+      "emoji": "🥐",
+      "available": false,
+      "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "ชาเขียวมัทฉะ",
+      "price": 50,
+      "emoji": "🍵",
       "available": true,
-      "tags": ["เมาส์", "สุขภาพ"]
+      "tags": ["ชา", "เย็น"]
     }
   ]
 }
