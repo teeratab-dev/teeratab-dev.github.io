@@ -1,32 +1,32 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
-  "ownerPhone": "081-234-5678",
+  "shopName": "ร้านเมาส์ไอที Gaming Shop",
+  "owner": "team",
+  "studentId": "1680705603",
+  "ownerPhone": "081-040-4633",
   "products": [
     {
       "id": 1,
-      "name": "ลาเต้เย็น",
-      "price": 55,
-      "emoji": "🥤",
+      "name": "เมาส์เกมมิ่ง RGB",
+      "price": 590,
+      "emoji": "🖱️",
       "available": true,
-      "tags": ["กาแฟ", "เย็น"]
+      "tags": ["เมาส์", "เกมมิ่ง", "ขายดี"]
     },
     {
       "id": 2,
-      "name": "ชาไทย",
-      "price": 45,
-      "emoji": "🧋",
+      "name": "เมาส์ไร้สาย Silent (เสียงเงียบ)",
+      "price": 350,
+      "emoji": "🖱️",
       "available": true,
-      "tags": ["ชา", "เย็น", "ขายดี"]
+      "tags": ["เมาส์", "ไร้สาย", "ทำงาน"]
     },
     {
       "id": 3,
-      "name": "ครัวซองต์",
-      "price": 60,
-      "emoji": "🥐",
-      "available": false,
-      "tags": ["เบเกอรี่"]
+      "name": "เมาส์สุขภาพ Ergonomic",
+      "price": 890,
+      "emoji": "🖱️",
+      "available": true,
+      "tags": ["เมาส์", "สุขภาพ"]
     }
   ]
 }
